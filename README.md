@@ -12,3 +12,6 @@
 6. Acessei o repositório com as novas mudanças;
 7. Acessei a pasta `imagens`, cliquei com o botão direito na nova imagem `logo.png` e copiei seu endereço de link
 8. Colei o endereço de link no readme da branch almior;
+9. Por fim Adicionei (`git add . `), commitei (`git commit -m "added image`) e dei um push (`git push`) com o novo link da imagem;
+
+### *Por Almir Lopes Moreira Junior*
