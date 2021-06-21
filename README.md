@@ -6,6 +6,13 @@
 
 1. Criei o arquivo `dados/almior.txt` e coloquei nele um texto;
 2. Adicionei uma linha de código em `arquivos.js`;
+
+```javascript
+function returnName(firstName) {
+  return console.log("Olá " + firstName);
+}
+```
+
 3. Carreguei uma imagem `logo.png` na pasta `imagens`.
 4. Commitei todas as mudanças na branch `almior`.
 5. Dei um `git push` em todas as alterações na branch
@@ -14,4 +21,4 @@
 8. Colei o endereço de link no readme da branch almior;
 9. Por fim Adicionei (`git add . `), commitei (`git commit -m "added image"`) e dei um push (`git push`) com o novo link da imagem;
 
-### *Por Almir Lopes Moreira Junior*
+### _Por Almir Lopes Moreira Junior_
