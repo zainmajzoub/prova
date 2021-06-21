@@ -1,0 +1,3 @@
+O nome do arquivo é formado pelas três primeiras letras do meu nome e três últimas letras do meu sobrenome.
+
+Lincoln dos Santos Camargo Vidal = Lindal
