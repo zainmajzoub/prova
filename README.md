@@ -10,15 +10,15 @@
 
 ### Procedimentos
 
-[x]Passo 1. Usar o `git clone https://github.com/arleysouza/esof` o comando para puxar o projeto para a sua máquina.
+[x] Passo 1. Usar o `git clone https://github.com/arleysouza/esof` o comando para puxar o projeto para a sua máquina.
 
-[x]Passo 2. Criei um branch com nome samres a partir da branch main, a primeira coisa que fazemos é `git checkout  -b " samres "`, assim criando uma branch esse comando além de criar a branch já entra nela com o checkout.
+[x] Passo 2. Criei um branch com nome samres a partir da branch main, a primeira coisa que fazemos é `git checkout  -b " samres "`, assim criando uma branch esse comando além de criar a branch já entra nela com o checkout.
 
-[x]Passo 3. Adicionei o arquivo TXT, uma linha no arquivos.js e carregue a imagem Git na pasta imagem na branch samres.
+[x] Passo 3. Adicionei o arquivo TXT, uma linha no arquivos.js e carregue a imagem Git na pasta imagem na branch samres.
 
-[x]Passo 4. Para finalizar alterei o arquivo README.md. Usei o comando `git add . para colocar o arquivo na área de stagging e dei um git commit` pare a dar o commit no repositório.
+[x] Passo 4. Para finalizar alterei o arquivo README.md. Usei o comando `git add . para colocar o arquivo na área de stagging e dei um git commit` pare a dar o commit no repositório.
 
-[x]Passo 5. Enviar o arquivo para repositório `git push`.
+[x] Passo 5. Enviar o arquivo para repositório `git push`.
 
 ```javascript
 samuc@LAPTOP-1UVA8F1I MINGW64 ~/esof (samres)
