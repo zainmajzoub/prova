@@ -7,7 +7,7 @@
 
 1. Download do repositório arleysouza/esof para o meu PC local (`git clone https://github.com/arleysouza/esof.git`);
 2. Criação da branch mautro (`git branch mautro`);
-3. Saída da branch main e entrada na brench mautro (`git branch checkout main`);
+3. Saída da branch main e entrada na branch mautro (`git branch checkout main`);
 4. Criação do arquivo dados\mautro.txt; 
 5. Edição do arquivo dados\mautro.txt (`Avaliação B2 - Engenharia de Software`);
 6. Inserção da instrução abaixo no arquivos.js:
