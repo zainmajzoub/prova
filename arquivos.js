@@ -1,0 +1,1 @@
+console.log('Adicionei o arquivo dados/arluza.txt')
