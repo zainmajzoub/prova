@@ -5,12 +5,14 @@
 
 ### Ações
 
-1. Criei o arquivo 'dados/mautro.txt' e coloquei nele o texto abaixo:
-
-`Avaliação B2 - Engenharia de Software`;
-
-2. Adicionei a linha de código abaixo em 'arquivos.js':
+1. Download do repositório arleysouza/esof para o meu PC local (`git clone https://github.com/arleysouza/esof.git`);
+2. Criação da branch mautro (`git branch mautro`);
+3. Saída da branch main e entrada na brench mautro (`git branch checkout main`);
+4. Criação do arquivo dados\mautro.txt; 
+5. Edição do arquivo dados\mautro.txt (`Avaliação B2 - Engenharia de Software`);
+6. Inserção da instrução abaixo no arquivos.js:
 ```JavaScript
 console.log('Adicionei uma instrução');
 ```
-3. Carreguei uma [imagem](https://github.com/arleysouza/esof/blob/mautro/imagens/imagem.jpg) na pasta 'imagens'. 
+7. Adição da [imagem](https://github.com/arleysouza/esof/blob/mautro/imagens/imagem.jpg) na pasta imagens para ser usada como banner;
+8. Realização de push no GitHub na origin mautro (`git push origin mautro`);
