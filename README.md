@@ -1,6 +1,6 @@
 # Exercício de GitHub
 
-![](https://media.moneytimes.com.br/uploads/2020/04/codigo-programacao-computacao.jpg)
+![](https://github.com/arleysouza/esof/blob/main/imagens/imagem.jpg)
 
 ### Ações
 
